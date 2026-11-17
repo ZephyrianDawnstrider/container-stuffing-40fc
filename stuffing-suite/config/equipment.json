@@ -1,0 +1,8 @@
+[
+ {"id":"20dc","name":"20 ft dry","payload_kg":28300,"volume_m3":33.2,"source":"https://www.maersk.com/support/faqs/cargo-weight-limit","checked":"2026-11-17","status":"Published reference maximum"},
+ {"id":"40dc","name":"40 ft dry","payload_kg":28870,"volume_m3":67.7,"source":"https://www.maersk.com/support/faqs/cargo-weight-limit","checked":"2026-11-17","status":"Published reference maximum"},
+ {"id":"40hc","name":"40 ft high cube dry","payload_kg":28690,"volume_m3":76.4,"source":"https://www.maersk.com/support/faqs/cargo-weight-limit","checked":"2026-11-17","status":"Published reference maximum"},
+ {"id":"dcd","name":"DCD (legacy/custom)","payload_kg":24000,"volume_m3":58,"source":"Legacy container-stuffing-dcd snapshot","checked":null,"status":"Unverified legacy assumption: confirm before use"},
+ {"id":"dnd","name":"DND (legacy/custom)","payload_kg":24000,"volume_m3":58,"source":"Legacy container-stuffing-dnd snapshot","checked":null,"status":"Unverified legacy assumption: confirm before use"},
+ {"id":"custom","name":"Custom equipment","payload_kg":24000,"volume_m3":58,"source":"User-configurable placeholder","checked":null,"status":"Enter actual vehicle specifications"}
+]
