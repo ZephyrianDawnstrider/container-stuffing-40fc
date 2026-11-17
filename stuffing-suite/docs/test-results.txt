@@ -1,0 +1,18 @@
+test_demo_switch_and_repeat (test_app.AppTests.test_demo_switch_and_repeat) ... 2026-11-17 14:57:08.527 WARNING streamlit.runtime.scriptrunner_utils.script_run_context: Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+2026-11-17 14:57:09.319 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_no_jobs_no_button (test_app.AppTests.test_no_jobs_no_button) ... 2026-11-17 14:57:09.396 Thread 'MainThread': missing ScriptRunContext! This warning can be ignored when running in bare mode.
+ok
+test_allocate_all_once_and_unpriced (test_planner.PlannerTests.test_allocate_all_once_and_unpriced) ... ok
+test_capacity_and_boundary (test_planner.PlannerTests.test_capacity_and_boundary) ... ok
+test_invalid_inputs (test_planner.PlannerTests.test_invalid_inputs) ... ok
+test_oversize_not_lost (test_planner.PlannerTests.test_oversize_not_lost) ... ok
+test_price_does_not_change_allocation (test_planner.PlannerTests.test_price_does_not_change_allocation) ... ok
+test_rate_normalization_and_overflow (test_planner.PlannerTests.test_rate_normalization_and_overflow) ... ok
+test_rates (test_planner.PlannerTests.test_rates) ... ok
+test_repeated_runs_independent (test_planner.PlannerTests.test_repeated_runs_independent) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.996s
+
+OK

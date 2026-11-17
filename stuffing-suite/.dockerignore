@@ -1,0 +1,7 @@
+*
+!Dockerfile
+!requirements-lock.txt
+!app.py
+!planner.py
+!config/
+!config/**
